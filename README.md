@@ -19,7 +19,7 @@ The project consists of the following main files:
 - **Video Grid**: Displays a list of videos with thumbnails, titles, and channel info.
 - **Responsive Design**: The page layout adjusts based on the screen size (thanks to the CSS media queries).
 
-## Installation & Usage
+1. ## Installation & Usage
 
    **Clone the Repository**:
    To get started, you can clone this repository to your local machine using the following command:
