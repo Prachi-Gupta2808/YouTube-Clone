@@ -21,7 +21,25 @@ The project consists of the following main files:
 
 ## Installation & Usage
 
-1. **Clone the Repository**:
+   **Clone the Repository**:
    To get started, you can clone this repository to your local machine using the following command:
    ```bash
    git clone <repository-url>
+
+## Files and Directories
+
+- **`index.html`**: The main HTML file containing the layout structure.
+- **`styles/`**: A directory that contains the CSS files for the various sections of the webpage:
+  - `general.css` for general styles.
+  - `header.css` for the header's styling.
+  - `video.css` for the video grid's styling.
+  - `sidebar.css` for the sidebar's styling.
+- **`icons/`**: A folder containing all the icon images (e.g., YouTube logo, hamburger menu, etc.).
+- **`thumbnails/`**: A folder containing thumbnail images for the videos.
+- **`profiles/`**: A folder containing profile pictures for each video channel.
+
+## Future Improvements
+
+- **Interactivity**: Add JavaScript to make the project fully functional (e.g., implementing the search functionality, notifications, etc.).
+- **Additional Features**: You can add a video player, comment section, or even like/dislike buttons to make the clone more interactive.
+
